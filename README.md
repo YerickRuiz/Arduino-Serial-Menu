@@ -2,4 +2,4 @@
 Arduino example for controlling LEDs with the serial monitor.
 
 # Authors
-Yerick
+Yerick Ruiz
